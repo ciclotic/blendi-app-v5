@@ -1,8 +1,8 @@
-version: 0.5.11
+version: 0.5.12
 files:
-  - url: BlendiAppV5-Setup-0.5.11.exe
-    sha512: j014RP6tvqW/O78VMEdEVeOOwCMJszDjqgI+6iv/W/BnQGUUuOSeVn9lVve4rR5/W7yoQLbmy0p39IrfKc8J+Q==
-    size: 101669646
-path: BlendiAppV5-Setup-0.5.11.exe
-sha512: j014RP6tvqW/O78VMEdEVeOOwCMJszDjqgI+6iv/W/BnQGUUuOSeVn9lVve4rR5/W7yoQLbmy0p39IrfKc8J+Q==
-releaseDate: '2026-06-15T14:52:01.346Z'
+  - url: BlendiAppV5-Setup-0.5.12.exe
+    sha512: YlPRsZhDbGB95Uv1O2pSl5RFjd3gdB6pDQ94jNgGyl3TG7wXYsiynPg3fl3BXYQ6SXzgmrmZYHn/rUJwjKBmbA==
+    size: 101669716
+path: BlendiAppV5-Setup-0.5.12.exe
+sha512: YlPRsZhDbGB95Uv1O2pSl5RFjd3gdB6pDQ94jNgGyl3TG7wXYsiynPg3fl3BXYQ6SXzgmrmZYHn/rUJwjKBmbA==
+releaseDate: '2026-06-15T14:59:52.031Z'
